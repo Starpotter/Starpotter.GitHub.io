@@ -1,0 +1,40 @@
+body{
+	background: #000000;
+	color: #FFFFFF;
+	font-family: 'Open Sans', sans-serif;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 20px; 
+}
+#welcome_msg{
+	text-align: center;
+}
+h1{
+	font-family: 'Della Respira', serif;
+	
+}
+a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a #home_page{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;					
+}
+header{
+	text-align: center;
+	border-style: dotted;
+}
+a:hover{
+	background: rgb(241,175,232);
+	background: linear-gradient(90deg, rgba(241,175,232,0.08493819891237742) 0%, rgba(169,126,209,1) 50%, rgba(132,151,255,1) 100%);
+}
+.story{
+	color: #000000;
+}
